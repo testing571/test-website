@@ -1,6 +1,6 @@
 :root {
   --dwp-navigator-trigger-display: inline-block;
-  --dwp-navigator-trigger-background: url('https://testing571.github.io/test-website/tenor.gif') no-repeat center center / contain;
+  --dwp-navigator-trigger-background: url('https://testing571.github.io/test-website/Robot.gif') no-repeat center center / contain;
   --dwp-navigator-trigger-border: #f1f1f4;
   --dwp-navigator-trigger-border-radius: 50% 50% 50% 3px;
   --dwp-navigator-trigger-color: white;
@@ -48,4 +48,5 @@
   --dwp-navigator-title-button-outline-color: #32a852;
 
 }
+
 
